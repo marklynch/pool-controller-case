@@ -11,7 +11,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 ### Removed
 
-## [v1.0.0 - Initial version]
+## [v2.0.0 - Rev 16 board]
+### Changed
+- Increased height to fit rev 16 board
+
+## [v1.0.0 - Initial version: rev 15 board]
 ### Added
 - Added ventilation slots to the sides
 - Added thinner area above the LED to make it more visible
