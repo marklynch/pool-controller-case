@@ -4,8 +4,8 @@
 This fits the [PCB from Pool Controller](https://github.com/marklynch/pool-controller-pcb)
 
 ## Images:
-![Case](Image-Case.png)
-![Lid](Image-Lid.png)
+![Case](Image-Case-v2.png)
+![Lid](Image-Lid-v2.png)
 
 
 ## Print Instructions:
